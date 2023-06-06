@@ -16,9 +16,9 @@ Now that you have a good overview of containers and the Docker platform, let’s
 
 To complete this tutorial, you need the following:
 
-    Python version 3.8 or later. Download [Python](https://www.python.org/downloads/)
-    Docker running locally. Follow the instructions to download and [install Docker](https://docs.docker.com/desktop/)
-    An IDE or a text editor to edit files. We recommend using [Visual Studio Code](https://code.visualstudio.com/Download).
+Python version 3.8 or later. Download [Python](https://www.python.org/downloads/)
+Docker running locally. Follow the instructions to download and [install Docker](https://docs.docker.com/desktop/)
+An IDE or a text editor to edit files. We recommend using [Visual Studio Code](https://code.visualstudio.com/Download).
 
 # Sample application
 
